@@ -57,7 +57,7 @@ This project is an **interactive co-authorship network visualization** built usi
 ### Steps to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/co-authorship-network-visualization.git
+   git clone https://github.com/jravikumar97/CoAuthor-Network-Vizualization
    cd co-authorship-network-visualization
    ```
 
@@ -69,12 +69,3 @@ This project is an **interactive co-authorship network visualization** built usi
 2. **Change Node Size**: Select between the number of citations, number of publications, or degree to adjust the node size dynamically.
 
 3. **View Author Details**: Click on a node (author) to see detailed information about the selected author, such as their name, title, country, and publication year.
-
-## Contributions
-
-Contributions are welcome! Feel free to open issues for bugs or feature requests, or submit a pull request for improvements.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
